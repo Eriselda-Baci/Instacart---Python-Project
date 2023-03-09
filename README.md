@@ -18,5 +18,5 @@
 ##### ● Are there differences in ordering habits based on the following factors: loyalty status, region, age, family status, incom
 
 ## Deliverables
-##### Final Report includes project brief, data set, analysis findings, visualizations, and recommendations for Instacart stakeholders.
+#####  [Final Report](./05-sent-to-client/final-report.md) includes project brief, data set, analysis findings, visualizations, and recommendations for Instacart stakeholders.
 
