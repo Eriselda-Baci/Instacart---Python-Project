@@ -19,6 +19,12 @@
 ##### ● Which departments have the highest frequency of product orders?
 ##### ● Are there differences in ordering habits based on the following factors: loyalty status, region, age, family status, incom
 
+
+## Exploratory Data Analysis for Instacart
+
+##### In this notebook, I will perform an initial data analysis of Instacart's data to uncover insights and suggest strategies for better segmentation. The main objective of this analysis is to answer the above key questions. By analyzing these questions, I can provide valuable insights to Instacart that can help them make data-driven decisions to further enhance their already successful business. I will explore and visualize the data using various tools and techniques, including Python libraries such as Pandas, NumPy, and Matplotlib.
+
+#### Let's dive into the analysis!
 ## Data Set
 
 ##### Original data sets are [here.](https://github.com/Eriselda-Baci/Instacart-Python-Project/blob/main/01%20Project%20Managment/A4_Data_Project%20Brief.pdf)
