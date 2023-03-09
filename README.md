@@ -4,9 +4,11 @@
 # Instacart - Python Project
 
 ## Overview
+
 ##### Instacart is an online grocery store that operates through an app. The Instacart stakeholders are most interested in the variety of customers in their database along with their purchasing behaviors. Instacart wants to uncover more information about their sales patterns, even though they have very good sales. By analyzing their sales patterns, Instacart can identify areas for improvement and make data-driven decisions to further enhance their already successful business.
 
 ## Objective
+
 ##### The goal of this project as an analyst is to perform an initial data and exploratory analysis of Instacart's data in order to derive insights and suggest strategies for better segmentation based on the following key questions:
 
 ##### ● What are the busiest days of the week?
@@ -17,6 +19,11 @@
 ##### ● Which departments have the highest frequency of product orders?
 ##### ● Are there differences in ordering habits based on the following factors: loyalty status, region, age, family status, incom
 
+## Data Set
+
+##### Original data sets are here.
+
 ## Deliverables
-##### [Final report](./05%20Sent%20to%20client/) includes project brief, data set, analysis findings, visualizations, and recommendations for Instacart stakeholders.
+
+##### [Final report](./05%20Sent%20to%20client/) includes analysis findings, visualizations, and recommendations for Instacart stakeholders.
 
