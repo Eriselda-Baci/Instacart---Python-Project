@@ -21,7 +21,7 @@
 
 ## Data Set
 
-##### Original data sets are [here](./01%20Project%20Managment/).
+##### Original data sets are [here](/https://github.com/Eriselda-Baci/Instacart-Python-Project/tree/main/01%20Project%20Managment/).
 
 ## Deliverables
 
